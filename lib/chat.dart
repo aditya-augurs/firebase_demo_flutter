@@ -33,7 +33,7 @@ class _Chat extends State<Chat>{
   }
 
   AppBar getAppBar(){
-    return AppBar(elevation: 5,title: const Text("Chat"),);
+    return AppBar(elevation: 5,title: const Text("Chat demo"),);
   }
 
   Widget getBody(){
